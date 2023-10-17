@@ -14,7 +14,7 @@ De plus, le développement de l’application mobile permettra de construire une
 
 
 ## Données
-On est informés de l’existence d’un document, formalisé par un alternant qui vient de quitter l’entreprise. Il a testé une première approche dans un environnement Big Data AWS EMR, à partir d’un [jource de données](https://www.kaggle.com/datasets/moltean/fruits) constitué des images de fruits et des labels associés. Le notebook réalisé par l’alternant servira de point de départ pour construire une partie de la chaîne de traitement des données.
+On est informés de l’existence d’un document, formalisé par un alternant qui vient de quitter l’entreprise. Il a testé une première approche dans un environnement Big Data AWS EMR, à partir d’un [jeux de données](https://www.kaggle.com/datasets/moltean/fruits) constitué des images de fruits et des labels associés. Le notebook réalisé par l’alternant servira de point de départ pour construire une partie de la chaîne de traitement des données.
 
 
 ## Mission
